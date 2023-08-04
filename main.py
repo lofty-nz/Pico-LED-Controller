@@ -130,7 +130,7 @@ def enter_menu():
     previous_val = current_val 
     menu_mode = True  
     prev_menu_position = menu_position
-3.5.55....5
+
     while menu_mode:
         new_poll_value = poll_encoder()
 
